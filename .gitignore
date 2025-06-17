@@ -1,0 +1,10 @@
+
+# Ignore environment files
+.env
+.venv/
+venv/
+
+# Ignore build artifacts
+dist/
+build/
+*.egg-info/
