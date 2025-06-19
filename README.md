@@ -4,6 +4,8 @@ A Python desktop GUI for tracking mechanical treadmill activity using a Raspberr
 The treadmill can be complemented by any other gaming controller supported by your OS/Steam, in my case I like to use Switch JoyCon with BetterJoyforCemu (https://github.com/Davidobot/BetterJoy) to remap my joycons. 
 Special thanks to the author for their great work.
 
+Interested in setting up your own Treadmill Tracker? Follow my tutorial on Hackaday!https://hackaday.io/project/203327-simple-treadmill-tracker-for-games
+
 
 ## Features
 - Reads data from Raspberry Pi Pico via serial. 
