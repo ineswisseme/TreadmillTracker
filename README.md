@@ -17,7 +17,7 @@ Interested in setting up your own Treadmill Tracker? Follow my tutorial on Hacka
 
 ## Install and use:
 
-1. After following the tutorial on building the hardware for this script (link coming soon), you can now connect your Pico to a USB port. 
+1. After following the Hackaday tutorial on building the hardware for this script, you can now connect your Pico to a USB port. 
 2. Copy and paste main.py script from the /Install folder. Disconnect/Reconnect your pico as main.py scripts runs at starting time.
 3. Run `TreadmillTracker.py` or the compiled TreadmillTracker.exe (not recommended: the script overrides the key 'W' when it detects motion on the treadmill, which is a flagged behavior for most 3rd party anti-virus.
    If you choose to do so, add an exclusion rule for the executable in your windows defender, under Virus & threat protection settings.)
